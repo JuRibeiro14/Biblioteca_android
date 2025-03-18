@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#F8DB99"
     android:backgroundTint="#F8DB99"
-    tools:context=".view.LivroActivity">
+    tools:context=".LivroActivity">
 
     <ImageView
         android:id="@+id/imageView2"

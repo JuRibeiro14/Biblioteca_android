@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Biblioteca"
         tools:targetApi="31">
         <activity
-            android:name="br.edu.fatecpg.com.biblioteca.view.MainActivity"
+            android:name="br.edu.fatecpg.com.biblioteca.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +21,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LivroActivity"/>
+
     </application>
 
 </manifest>
