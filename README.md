@@ -20,5 +20,5 @@ Este app permite ao usuário cadastrar um livro informando seu **título** e **a
 ---
 ## 📸 Capturas de Tela
 ```markdown
-![Tela de Cadastro](screenshots/Tela1.png)
+![Tela de Cadastro](screenshots/tela1.png)
 ![Tela de Detalhes](screenshots/tela2.png)
