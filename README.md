@@ -15,10 +15,3 @@
 ## 📱 Descrição
 
 Este app permite ao usuário cadastrar um livro informando seu **título** e **autor**, e visualizar esses dados em uma segunda tela.
-
-
----
-## 📸 Capturas de Tela
-```markdown
-![Tela de Cadastro](screenshots/tela1_app.png)
-![Tela de Detalhes](screenshots/tela2.png)
