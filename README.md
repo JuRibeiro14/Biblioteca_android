@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/plataforma-Android-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/linguagem-Kotlin-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/status-Finalizado-brightgreen?style=flat-square"/>
 </p>
 
 ---
